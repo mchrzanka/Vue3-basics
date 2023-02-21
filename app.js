@@ -1,4 +1,4 @@
-//object that we can use to configure this app. There are options for the app, such as data. There are predefined keys, such as data. Data wants a function.
+//object that we can use to configure this app. There are options for the app, or predefined keys, such as data and method. Data wants a function.
 const app = Vue.createApp({
 	// data: function(){}
 	data() {
